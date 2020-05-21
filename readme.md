@@ -4,7 +4,7 @@
 <br>test2_datasets测试集复制到 /group7_houtai/test2/datasets
 <br>只需要复制里面的csv文件，不要复制文件夹
 
-#train数据集
+# train数据集
 ## CWRU四分类任务实验
 
 ### 一、数据说明
@@ -27,7 +27,7 @@ RPM:每分钟转速数据，在提取时实际上RPM对于每个文件只有一�
 
 
 
-#test数据集
+# test数据集
 
 
 ## CWRU四分类任务实验
